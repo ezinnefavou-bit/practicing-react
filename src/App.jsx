@@ -4,6 +4,8 @@
 // import Alphabet from "./components/Alphabet"
 // import ConditionalRedenderingno1 from "./components/ConditionalRenderingno1"
 import Vowels from "./components/Vowels"
+import Sameletters from "./components/Sameletters"
+import Longnames from "./components/Longnames"
 function App() {
   return (
     <>
@@ -12,6 +14,8 @@ function App() {
       <Alphabet />
       <ConditionalRedenderingno1 /> */}
       <Vowels />
+      <Sameletters />
+      <Longnames />
     </>
   )
 }
