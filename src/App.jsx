@@ -6,6 +6,7 @@
 import Vowels from "./components/Vowels"
 import Sameletters from "./components/Sameletters"
 import Longnames from "./components/Longnames"
+import Filternames from "./components/Filternames"
 function App() {
   return (
     <>
@@ -16,6 +17,7 @@ function App() {
       <Vowels />
       <Sameletters />
       <Longnames />
+      <Filternames />
     </>
   )
 }
